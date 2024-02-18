@@ -1,0 +1,39 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: rgb(1, 174, 177);
+}
+
+.header_div{
+    background: rgba(255, 255, 255, 0.906);
+    color: rgba(178, 34, 34, 0.405);
+}
+.header_div p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(231, 207, 0);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.main_div button{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ margin-top: 30px;
+ width: 130px;
+ font-weight: bolder;
+ letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: chartreuse;
+    bottom: 0px;
+    width: 100%;
+    font-size: 18px;
+    background-color: tomato;
+    line-height: 3;
+    text-align: center;
+    text-shadow:   5px 5px 5px rgb(0, 181, 187)
+
+}
+h2{
+    color:red 
+}
+   
